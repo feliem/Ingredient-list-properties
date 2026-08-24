@@ -6,13 +6,14 @@ Analyzing properties of molecules, such as in an ingredient list
 - Shows Log P values against compound CID / how lipophilic or hydrophilic each compound is
 
 1. Run the code
-2. Enter list of ingredients, newline (type Enter), then type "END"
-   eg. Aqua/​, Citric Acid, Persea Gratissima (Avocado) Oil
+2. Enter list of ingredients, newline (type Enter), then type "END" <br>
+   eg. Aqua/​, Citric Acid, Persea Gratissima (Avocado) Oil <br>
        END
-3. Parsed ingredients are directly searched from PubChem
-    eg. FOUND: Aqua → CID 962
-        FOUND: Citric Acid → CID 311
-        NOT FOUND: Persea Gratissima (Avocado) Oil
+3. Parsed ingredients are directly searched from PubChem <br>
+    eg. <br>
+   > FOUND: Aqua → CID 962 <br>
+   > FOUND: Citric Acid → CID 311 <br>
+   > NOT FOUND: Persea Gratissima (Avocado) Oil
 5. See scatterplot of Log P against compound CID
 
 Limitations:

@@ -7,9 +7,12 @@ Analyzing properties of molecules, such as in an ingredient list
 
 1. Run the code
 2. Enter list of ingredients, newline (type Enter), then type "END" <br>
-   eg. Aqua/​, Citric Acid, Persea Gratissima (Avocado) Oil <br>
-       END
-3. Parsed ingredients are directly searched from PubChem <br>
+
+   eg.<br>
+   > Aqua/​, Citric Acid, Persea Gratissima (Avocado) Oil <br>
+   > END
+4. Parsed ingredients are directly searched from PubChem <br>
+
     eg. <br>
    > FOUND: Aqua → CID 962 <br>
    > FOUND: Citric Acid → CID 311 <br>

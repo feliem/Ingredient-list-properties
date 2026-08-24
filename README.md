@@ -10,8 +10,8 @@ Analyzing properties of molecules, such as in an ingredient list
    eg. Aqua/​, Citric Acid, Persea Gratissima (Avocado) Oil
        END
 3. Parsed ingredients are directly searched from PubChem
-   eg. FOUND: Aqua → CID 962
-       FOUND: Citric Acid → CID 311 
+   /n eg. FOUND: Aqua → CID 962
+   /n    FOUND: Citric Acid → CID 311 
        NOT FOUND: Persea Gratissima (Avocado) Oil
 4. See scatterplot of Log P against compound CID
 

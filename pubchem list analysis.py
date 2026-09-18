@@ -43,9 +43,8 @@ if not molecules:
         # Split by comma
         molecules.extend(line.split(','))
 
-# --------------------------------
+
 # Clean ingredients
-# --------------------------------
 
 cleaned_molecules = []
 
